@@ -4,10 +4,13 @@ Slot Machine in Python using Jupyter Notebook.
 
 This program has been awarded an A+ with 100% score.
 
-View and run the program online without Anaconda: 
-
-Slotmachine:
+View and run the slot machine online without Anaconda: 
 https://colab.research.google.com/drive/1zRoXm9VT3zyb-YT3KcetboPVmSKUwKGM
+
+<p align="left">
+  <img src="https://github.com/scarletgrant/slot-machine-python/blob/master/screenshot_slot-machine.png" height="400" title="hover text">
+<alt="screenshot">
+</p>
 
 ## About the Slot Machine
 
