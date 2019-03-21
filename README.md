@@ -1,4 +1,6 @@
-# Slot Machine in Python (awarded with an A+, 100%)
+# Slot Machine in Python
+
+This program has been awarded an A+ with 100% score.
 
 View and run the program online without Anaconda: 
 
