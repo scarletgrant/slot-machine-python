@@ -1,5 +1,7 @@
 # Slot Machine in Python
 
+Slot Machine in Python using Jupyter Notebook.
+
 This program has been awarded an A+ with 100% score.
 
 View and run the program online without Anaconda: 
